@@ -1,0 +1,8 @@
+public class Main {
+    public static void main(String[] args) {
+        System.out.println("Hello World");
+    }
+}
+public class Main: Declares a class named Main. Every Java program requires a class.
+public static void main(String[] args): This is the main method, the entry point for any Java program to start execution.
+System.out.println("Hello World");: This statement prints the string "Hello World" to the standard output (console). 
